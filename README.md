@@ -8,5 +8,5 @@ basic components like msg sending/email sending components <br/>
 ##Author:
 Johnny, 7+ year php development experience <br/>
 ##Contacts:
-Email: 306539332@qq.com
+Email: 306539332@qq.com <br/>
 Tel:18662191775
